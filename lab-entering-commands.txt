@@ -40,9 +40,7 @@ Nothing happens.
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
 Desktop/   Documents/ Downloads/ 
-ent-v314-007:~ student$ ls D
-Desktop/   Documents/ Downloads/ 
-ent-v314-007:~ student$ ls D
+
 
 
 ==========

@@ -31,7 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+/Users/student/mtec1002
 
 
 ==========
@@ -42,7 +42,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1002/animals
 
 
 ==========
@@ -53,7 +53,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1002/animals/food
 
 
 ==========
@@ -64,7 +64,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1002/animals/food/foo/bar/baz/qux
 
 
 ==========
@@ -75,7 +75,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1002/animals/food/foo/bar/baz/qux
 
 
 ==========
@@ -86,7 +86,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1002/animals/food/foo/bar
 
 
 ==========
@@ -97,7 +97,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/mtec1002/animals/food/foo
 
  
 ==========
@@ -108,8 +108,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
-
+/Users/student
 
 ==========
 12. Type:
@@ -131,7 +130,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student
 
 
 ==========
@@ -142,7 +141,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/Volumes
 
 
 ==========
@@ -153,7 +152,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+No 
 
 
 ==========
@@ -164,7 +163,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student/mtec1002
 
 
 ==========
@@ -174,7 +173,7 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/student/
 
 
 ==========
@@ -203,7 +202,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
+/Users/student/pineapple/orange/strawberry/lemon
 
 
 ==========
@@ -211,15 +210,14 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
-
+mkdir aardvark
 
 ==========
 20. List the files and directories in the current directory using the long format.  
 
 What is the modified date of the aardvark directory?
 ----------
-
+Sep 04
 
 
 ==========
@@ -231,7 +229,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir -p foo/bar/baz
 
 
 ==========
@@ -239,7 +237,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd baz
 
 
 ==========
@@ -247,44 +245,45 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd ../..
 
 ==========
 24. What command is used to delete empty directories?
 ----------
-
+rmdir
 
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
-
+-a
 
 
 ==========
 27. What's the shortcut for home directory?
 ----------
-
+~
 
 
 ==========
 28. What's a pathname?
 ----------
-
+showing all the directory to the current working directory
 
 
 ==========
 29. What's a directory?
 ----------
-
+showing where the files are
 
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/Users/student/Download
